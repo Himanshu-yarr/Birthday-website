@@ -43,7 +43,7 @@ birthday-website/
 
 ## 🌐 Live Demo
 
-birthday-webiste.netlify.app
+https://birthday-webiste.netlify.app/
 
 ---
 
